@@ -1,0 +1,1041 @@
+[
+        {
+            "subjectName":"Computer Science",
+            "interestRank":
+            {
+                "travel": 2,
+                "fitness and health": 3,
+                "music": 4,
+                "food and cooking": 5,
+                "technology": 10,
+                "sports": 6,
+                "shopping": 7,
+                "reading": 8,
+                "photography": 9,
+                "movies and tv shows": 4,
+                "outdoor activities": 2,
+                "cars and vehicles": 5,
+                "fashion and beauty": 3,
+                "gaming": 8,
+                "social media and the internet": 10
+            }
+        },
+        {
+            "subjectName":"Agricultural Sciences",
+            "interestRank":
+            {
+                "travel": 3,
+                "fitness and health": 5,
+                "music": 2,
+                "food and cooking": 8,  
+                "technology": 6,
+                "sports": 2,
+                "shopping": 3,
+                "reading": 4,
+                "photography": 4,
+                "movies and tv shows": 2,
+                "outdoor activities": 8,
+                "cars and vehicles": 3,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 4
+            }
+        },
+        {
+            "subjectName":"Artificial Intelligence",
+            "interestRank":
+            {
+                "travel": 2,
+                "fitness and health": 3,
+                "music": 4,
+                "food and cooking": 4,
+                "technology": 10,
+                "sports": 4,
+                "shopping": 4,
+                "reading": 5,
+                "photography": 4,
+                "movies and tv shows": 5,
+                "outdoor activities": 3,
+                "cars and vehicles": 4,
+                "fashion and beauty": 3,
+                "gaming": 5,
+                "social media and the internet": 8
+               }               
+        },
+        {
+            "subjectName":"Arts and Humanities",
+            "interestRank":{
+                "travel": 5,
+                "fitness and health": 2,
+                "music": 8,
+                "food and cooking": 3,
+                "technology": 4,
+                "sports": 2,
+                "shopping": 3,
+                "reading": 8,
+                "photography": 5,
+                "movies and tv shows": 8,
+                "outdoor activities": 3,
+                "cars and vehicles": 2,
+                "fashion and beauty": 4,
+                "gaming": 2,
+                "social media and the internet": 6
+               }
+                             
+        },
+        {
+            "subjectName":"Biology and Biochemistry",
+            "interestRank":{
+                "travel": 4,
+                "fitness and health": 7,
+                "music": 3,
+                "food and cooking": 4,
+                "technology": 5,
+                "sports": 4,
+                "shopping": 3,
+                "reading": 6,
+                "photography": 4,
+                "movies and tv shows": 3,
+                "outdoor activities": 6,
+                "cars and vehicles": 3,
+                "fashion and beauty": 3,
+                "gaming": 3,
+                "social media and the internet": 5
+               }
+               
+                             
+        },
+        {
+            "subjectName":"Biotechnology and Applied Microbiology",
+            "interestRank":{
+                "travel": 1,
+                "fitness and health": 9,
+                "music": 2,
+                "food and cooking": 3,
+                "technology": 8,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 2,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }              
+                             
+        },
+        {
+            "subjectName":"Cardiac and Cardiovascular Systems",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 10,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 7,
+                "sports": 3,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 3,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }            
+               
+                             
+        },
+        {
+            "subjectName":"Cell Biology",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 8,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 8,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+               
+                             
+        },
+        {
+            "subjectName":"Chemical Engineering",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 6,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 8,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+               
+                             
+        },
+        {
+            "subjectName":"Chemistry",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 6,
+                "music": 2,
+                "food and cooking": 4,
+                "technology": 8,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }            
+               
+                             
+        },
+        {
+            "subjectName":"Civil Engineering",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 6,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 8,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 4,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+               
+                             
+        },
+        {
+            "subjectName":"Clinical Medicine",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 10,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 7,
+                "sports": 3,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 3,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+               
+                             
+        },
+        {
+            "subjectName":"Condensed Matter Physics",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 9,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }            
+               
+                             
+        },
+        {
+            "subjectName":"Economics and Business",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 5,
+                "sports": 2,
+                "shopping": 4,
+                "reading": 4,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 4
+            }
+            
+               
+                             
+        },
+        {
+            "subjectName":"Education and Educational Research",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 4,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 5,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 4
+            }
+            
+               
+                             
+        },
+        {
+            "subjectName":"Electrical and Electronic Engineering",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 6,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 9,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+               
+                             
+        },
+        {
+            "subjectName":"Endocrinology and Metabolism",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 9,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 7,
+                "sports": 3,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 3,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }              
+                             
+        },
+        {
+            "subjectName":"Energy and Fuels",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 8,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+               
+                             
+        },
+        {
+            "subjectName":"Engineering",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 9,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }          
+                             
+        },
+        {
+            "subjectName":"Environment/Ecology",
+            "interestRank":{
+                "travel": 3,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 5,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 4,
+                "photography": 3,
+                "movies and tv shows": 2,
+                "outdoor activities": 5,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 3
+            }
+            
+               
+                             
+        },
+        {
+            "subjectName":"Food Science and Technology",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 6,
+                "music": 2,
+                "food and cooking": 8,
+                "technology": 7,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }     
+                             
+        },
+        {
+            "subjectName":"Gastroenterology and Hepatology",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 8,
+                "music": 2,
+                "food and cooking": 3,
+                "technology": 7,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }            
+               
+                             
+        },
+        {
+            "subjectName": "Geosciences",
+            "interestRank":{
+                "travel": 4,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 5,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 4,
+                "photography": 4,
+                "movies and tv shows": 2,
+                "outdoor activities": 5,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                             
+        },
+        {
+            "subjectName":"Immunology",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 8,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 7,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+               
+                             
+        },
+        {
+            "subjectName":"Infectious Diseases",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 8,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 7,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }              
+                             
+        },
+        {
+            "subjectName":"Materials Science",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 8,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }            
+               
+                             
+        },
+        {
+            "subjectName":"Mathematics",
+            "interestRank":{
+                "travel": 4,
+                "fitness and health": 7,
+                "music": 3,
+                "food and cooking": 4,
+                "technology": 5,
+                "sports": 4,
+                "shopping": 3,
+                "reading": 6,
+                "photography": 4,
+                "movies and tv shows": 3,
+                "outdoor activities": 6,
+                "cars and vehicles": 3,
+                "fashion and beauty": 3,
+                "gaming": 3,
+                "social media and the internet": 5
+               }
+               
+                             
+        },
+        {
+            "subjectName":"Mechanical Engineering",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 8,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 6,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Meteorology and Atmospheric Sciences",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 7,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 3,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Microbiology",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 6,
+                "music": 2,
+                "food and cooking": 6,
+                "technology": 7,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Molecular Biology and Genetics",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 7,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 7,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Nanoscience and Nanotechnology",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 9,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Neuroscience and Behavior",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 7,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 6,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Oncology",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 8,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 7,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Optics",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 8,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 7,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Pharmacology and Toxicology",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 8,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 7,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName": "Physical Chemistry",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 7,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Physics",
+            "interestRank":{
+                "travel": 1,
+                "fitness and health": 2,
+                "music": 3,
+                "food and cooking": 1,
+                "technology": 7,
+                "sports": 4,
+                "shopping": 1,
+                "reading": 1,
+                "photography": 5,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 6,
+                "fashion and beauty": 1,
+                "gaming": 3,
+                "social media and the internet": 1
+            }            
+                  
+        },
+        {
+            "subjectName":"Plant and Animal Science",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 7,
+                "music": 2,
+                "food and cooking": 6,
+                "technology": 3,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 2,
+                "photography": 3,
+                "movies and tv shows": 1,
+                "outdoor activities": 8,
+                "cars and vehicles": 1,
+                "fashion and beauty": 1,
+                "gaming": 1,
+                "social media and the internet": 1
+            }            
+                  
+        },
+        {
+            "subjectName": "Polymer Science",
+            "interestRank":{
+                "travel": 1,
+                "fitness and health": 1,
+                "music": 1,
+                "food and cooking": 1,
+                "technology": 6,
+                "sports": 1,
+                "shopping": 1,
+                "reading": 1,
+                "photography": 1,
+                "movies and tv shows": 1,
+                "outdoor activities": 1,
+                "cars and vehicles": 1,
+                "fashion and beauty": 1,
+                "gaming": 1,
+                "social media and the internet": 1
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Psychiatry/Psychology",
+            "interestRank":{
+                "travel": 2,
+                "fitness and health": 5,
+                "music": 3,
+                "food and cooking": 3,
+                "technology": 2,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 4,
+                "photography": 2,
+                "movies and tv shows": 4,
+                "outdoor activities": 3,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 4
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Public, Environmental and Occupational Health",
+            "interestRank":{
+                "travel": 3,
+                "fitness and health": 8,
+                "music": 2,
+                "food and cooking": 4,
+                "technology": 3,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 2,
+                "movies and tv shows": 2,
+                "outdoor activities": 6,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Radiology, Nuclear Medicine and Medical Imaging",
+            "interestRank":{
+                "travel": 1,
+                "fitness and health": 7,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 5,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 2,
+                "photography": 4,
+                "movies and tv shows": 2,
+                "outdoor activities": 2,
+                "cars and vehicles": 1,
+                "fashion and beauty": 1,
+                "gaming": 1,
+                "social media and the internet": 2
+            }
+            
+                  
+        },
+        {
+            "subjectName": "Social Sciences and Public Health",
+            "interestRank":{
+                "travel": 4,
+                "fitness and health": 8,
+                "music": 3,
+                "food and cooking": 3,
+                "technology": 3,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 4,
+                "photography": 3,
+                "movies and tv shows": 4,
+                "outdoor activities": 4,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 5
+            }
+            
+                  
+        },
+        {
+            "subjectName": "Space Science",
+            "interestRank":{
+                "travel": 3,
+                "fitness and health": 2,
+                "music": 2,
+                "food and cooking": 1,
+                "technology": 7,
+                "sports": 1,
+                "shopping": 1,
+                "reading": 3,
+                "photography": 5,
+                "movies and tv shows": 3,
+                "outdoor activities": 3,
+                "cars and vehicles": 2,
+                "fashion and beauty": 1,
+                "gaming": 2,
+                "social media and the internet": 3
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Surgery",
+            "interestRank":{
+                "travel": 1,
+                "fitness and health": 7,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 4,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 2,
+                "photography": 2,
+                "movies and tv shows": 1,
+                "outdoor activities": 2,
+                "cars and vehicles": 1,
+                "fashion and beauty": 1,
+                "gaming": 1,
+                "social media and the internet": 1
+            }
+            
+                  
+        },
+        {
+            "subjectName":"Water Resources",
+            "interestRank":{
+                "travel": 3,
+                "fitness and health": 4,
+                "music": 2,
+                "food and cooking": 2,
+                "technology": 5,
+                "sports": 2,
+                "shopping": 2,
+                "reading": 3,
+                "photography": 4,
+                "movies and tv shows": 2,
+                "outdoor activities": 5,
+                "cars and vehicles": 2,
+                "fashion and beauty": 2,
+                "gaming": 2,
+                "social media and the internet": 3
+            }
+            
+                  
+        }
+
+
+
+    
+]
+    
+
